@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "ToDoList",
+  "repository": {
+    "type": "git",
+    "url": "nop"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module",
+  "devDependencies": {}
+}
