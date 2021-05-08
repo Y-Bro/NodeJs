@@ -5,3 +5,4 @@
 import mylib from "core";
 
 mylib.isEven(254);
+mylib.isOdd(2);
