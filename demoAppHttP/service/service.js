@@ -27,6 +27,7 @@ exports.addUser=function (req, res){
     console.log("HERE 5");
     req.on('end',function(){
         console.log("HERE 7");
+        console.log("asdasd");
         postBody = JSON.parse(body);
         console.log("HERE 8");
         
